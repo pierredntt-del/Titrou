@@ -204,7 +204,7 @@ main {
     margin-bottom: 0.8rem;
 }
 
-/* TABLEAU */
+
 .table-container {
     overflow-x: auto;
     margin: 1.5rem 0;
@@ -347,7 +347,7 @@ main {
     color: #f3c26b;
 }
 
-/* RESPONSIVE */
+
 @media (max-width: 768px) {
     .header-container {
         padding: 0.8rem 1rem;

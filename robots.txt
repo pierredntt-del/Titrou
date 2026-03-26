@@ -1,0 +1,7 @@
+# robots.txt pou Petit-Trou-de-Nippes
+
+User-agent: *
+Allow: /
+
+Sitemap: https://glistening-begonia-1e6e9c.netlify.app/sitemap.xml
+Host: https://glistening-begonia-1e6e9c.netlify.app
